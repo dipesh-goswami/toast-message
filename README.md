@@ -1,5 +1,5 @@
 # toast-message
-> On clicking any of three buttons, you will toast message.
+> On clicking any of three buttons, you will get toast message.
 [Click here to test this website live]()
 
 ![Mobile view](/screenshots/1.png)
